@@ -1,5 +1,5 @@
 💰 MongoDB Finance Database Backend
-📝 What's This All About?
+📝 What is This All About?
 Hey there! This is the backend code for a finance and user operations database. It's built to handle all the tricky stuff like managing user portfolios and keeping track of different assets like stocks, exchanges, and natural resources. Think of it as the brain behind a finance app, making sure all the data is safe, sound, and ready to go! It also has a basic command-line interface so you can test out all the functions.
 
 🚀 What Can It Do?
